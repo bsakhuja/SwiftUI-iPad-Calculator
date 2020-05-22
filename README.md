@@ -2,4 +2,4 @@
 An iPad calculator built using SwiftUI
 
 ## Screenshot
-![Screenshot](/screenshots/ipad)
+![Screenshot](/screenshots/ipad.png)
